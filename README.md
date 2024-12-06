@@ -3,7 +3,6 @@ This project is a Spelling Checker App built using Python and Tkinter for the gr
 
 # Features:
 Spell Correction:
-
 Automatically detect misspelled words and suggest corrections.
 
 Customizable Input and Output:

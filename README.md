@@ -3,27 +3,22 @@ This project is a Spelling Checker App built using Python and Tkinter for the gr
 
 # Features:
 Spell Correction:
-=
+
 Automatically detect misspelled words and suggest corrections.
 
 Customizable Input and Output:
-=
 Users can input text through a simple interface and view results instantly.
 
 Bulk Text Check:
-=
 Allows users to correct multiple sentences or paragraphs in one go.
 
 Interactive User Interface:
-=
 The Tkinter GUI is user-friendly, responsive, and intuitive.
 
 Word Suggestions:
-=
 Offers multiple alternative suggestions for a misspelled word.
 
 Performance Optimized:
-=
 Utilizes the SymSpell algorithm, which is known for its speed and low memory usage.
 
 # Why do you use this Tool?

@@ -6,7 +6,8 @@ This project is a Spelling Checker App built using Python and Tkinter for the gr
 Identify and correct misspelled words.
 Receive multiple suggestions for the correct word.
 Enhance their writing accuracy and efficiency.
-Features:
+
+# Features:
 Spell Correction:
 Automatically detect misspelled words and suggest corrections.
 
@@ -28,13 +29,16 @@ Offers multiple alternative suggestions for a misspelled word.
 Performance Optimized:
 Utilizes the SymSpell algorithm, which is known for its speed and low memory usage.
 
-# Why Use This Tool?
-"A spell checker is an essential feature in modern writing tools. It ensures that your text is error-free, polished, and professional. This project is a step towards simplifying writing tasks for everyone."
+# Why do you use this Tool?
+A spell checker is an essential feature of modern writing tools. It ensures that your text is error-free, polished, and professional. This project is a step towards simplifying writing tasks for everyone.
 
 # How to Run:
 Ensure you have Python installed.
+
 Install the required dependencies using pip install symspellpy tkinter.
+
 Run the script, and enjoy a hassle-free spelling checker experience.
+
 This project demonstrates the use of Python for practical applications while enhancing both personal and professional writing skills.
 
 
